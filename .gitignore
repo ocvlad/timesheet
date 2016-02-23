@@ -1,4 +1,4 @@
-/.ideea/*
+.ideea/
 /app/config/parameters.yml
 /build/
 /phpunit.xml
